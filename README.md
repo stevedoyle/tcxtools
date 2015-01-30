@@ -12,8 +12,8 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 
-```
 Example output:
+```
 ./tcxsplit.py sample.tcx
 2 laps found in sample.tcx
 Creating sample_1.tcx
